@@ -1,0 +1,6 @@
+#Resources
+src/main/resources/indexedFiles/
+src/main/resources/lucene8index/
+
+#Target Dir
+target/
